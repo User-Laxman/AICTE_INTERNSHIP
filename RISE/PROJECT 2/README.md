@@ -1,6 +1,6 @@
 # HANDDIGIT CLASSIFIER
 ---
-The Creating Multi-Task Model with Keras project, sourced from a Coursera Guided Project, focuses on developing a multi-task learning (MTL) model using the Keras framework with TensorFlow as the backend. Multi-task learning is a machine learning paradigm where a single model is trained to perform multiple related tasks simultaneously, leveraging shared representations to improve efficiency and performance. In this project, the model is designed to perform two tasks on a modified version of the MNIST dataset: 
+The focus on developing a multi-task learning (MTL) model using the Keras framework with TensorFlow as the backend. Multi-task learning is a machine learning paradigm where a single model is trained to perform multiple related tasks simultaneously, leveraging shared representations to improve efficiency and performance. In this project, the model is designed to perform two tasks on a modified version of the MNIST dataset: 
 
 > Digit Classification: Identifying the digit (0–9) in a grayscale MNIST image.
 
